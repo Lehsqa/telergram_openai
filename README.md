@@ -12,3 +12,8 @@
 
 1) ### `docker-compose up -d --build`
 2) ### `docker-compose up`
+
+## Functionality
+
+1) ### Sending message to bot for getting weather forecast (ex. "What is the weather like in Madrid tomorrow?")
+2) ### Sending .mp3 file for getting transcription
