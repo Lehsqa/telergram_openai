@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  bot:
+    build: ./project
+    volumes:
+      - .:/telegram_openai
+    env_file:
+      - .env
